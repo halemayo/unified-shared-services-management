@@ -11,7 +11,7 @@ The SSGB collaborates with organizations and stakeholders across the federal gov
 </p>
 
 <table>
-<tr><td><em>Role/Perspective</em></td><td><em>Name</em></td></tr>
+<tr><td><strong>Role/Perspective</Strong></td><td><Strong>Name</Strong></td></tr>
 <tr><td>SSPO (Co-Chair)</td><td>Lesley Field</td></tr>
 <tr><td>USSM ED (Co-Chair)</td><td>Beth Angerman</td></tr>
 <tr><td>Category Management</td><td>John Bashista</td></tr>
