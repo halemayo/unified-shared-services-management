@@ -28,7 +28,7 @@ The SSGB collaborates with organizations and stakeholders across the federal gov
 <tr><td>Central Policy Agency FM</td><td>Dave Lebryk</td></tr>
 </table>
 
-| Representation     | Name           | 
+<!--| Representation     | Name           | 
 | ------------- |-------------| 
 | OMB - Shared Services Policy Officer    | Lesley Field | 
 | OMB - Office of Federal Procurement Policy     | Karen Pica      | 
@@ -45,4 +45,4 @@ The SSGB collaborates with organizations and stakeholders across the federal gov
 | Department of Agriculture | Lynn Moanney       |  
 | Department of Transportation | Jennifer Funk    |  
 | Department of Interior | Elena Gonzalez      |  
-| Unified Shared Services Management | Beth Angerman   |  
+| Unified Shared Services Management | Beth Angerman   |  -->
