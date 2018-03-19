@@ -10,21 +10,21 @@ The SSGB collaborates with organizations and stakeholders across the federal gov
 <br>
 
 <table>
-<tr><td><strong>Role/Perspective</Strong></td><td><Strong>Name</Strong></td></tr>
-<tr><td>SSPO (Co-Chair)</td><td>Lesley Field</td></tr>
-<tr><td>USSM ED (Co-Chair)</td><td>Beth Angerman</td></tr>
-<tr><td>Category Management</td><td>John Bashista</td></tr>
-<tr><td>CFO Council</td><td>Stacy Marcott</td></tr>
-<tr><td>CFO Council</td><td>Sheila Conley</td></tr>
-<tr><td>CIO Council</td><td>Joe Klimavicz</td></tr>
-<tr><td>CIO Council</td><td>Jason Gray</td></tr>
-<tr><td>CAO Council</td><td>Soraya Correa</td></tr>
-<tr><td>CAO Council</td><td>Iris Cooper</td></tr>
-<tr><td>CHCO Council</td><td>Bob Gibbs</td></tr>
-<tr><td>CHCO Council</td><td>In Progress</td></tr>
-<tr><td>PIC Council</td><td>Dat Tran</td></tr>
-<tr><td>PIC Council</td><td>Henry Hensley</td></tr>
-<tr><td>Central Policy Agency FM</td><td>Dave Lebryk</td></tr>
+<tr><td width="150px"><strong>Role/Perspective</Strong></td><td width="150px"><Strong>Name</Strong></td></tr>
+<tr><td width="150px">SSPO (Co-Chair)</td><td width="150px">Lesley Field</td></tr>
+<tr><td width="150px">USSM ED (Co-Chair)</td><td width="150px">Beth Angerman</td></tr>
+<tr><td width="150px">Category Management</td><td width="150px">John Bashista</td></tr>
+<tr><td width="150px">CFO Council</td><td width="150px">Stacy Marcott</td></tr>
+<tr><td width="150px">CFO Council</td><td width="150px">Sheila Conley</td></tr>
+<tr><td width="150px">CIO Council</td><td width="150px">Joe Klimavicz</td></tr>
+<tr><td width="150px">CIO Council</td><td width="150px">Jason Gray</td></tr>
+<tr><td width="150px">CAO Council</td><td width="150px">Soraya Correa</td></tr>
+<tr><td width="150px">CAO Council</td><td width="150px">Iris Cooper</td></tr>
+<tr><td width="150px">CHCO Council</td><td width="150px">Bob Gibbs</td></tr>
+<tr><td width="150px">CHCO Council</td><td width="150px">In Progress</td></tr>
+<tr><td width="150px">PIC Council</td><td width="150px">Dat Tran</td></tr>
+<tr><td width="150px">PIC Council</td><td width="150px">Henry Hensley</td></tr>
+<tr><td width="150px">Central Policy Agency FM</td><td width="150px">Dave Lebryk</td></tr>
 </table>
 
 <!--| Representation     | Name           | 
