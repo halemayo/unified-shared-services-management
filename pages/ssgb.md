@@ -10,21 +10,21 @@ The SSGB collaborates with organizations and stakeholders across the federal gov
 <br>
 
 <table>
-<tr><td width="150px"><strong>Role/Perspective</Strong></td><td width="150px"><Strong>Name</Strong></td></tr>
-<tr><td width="150px">SSPO (Co-Chair)</td><td width="150px">Lesley Field</td></tr>
-<tr><td width="150px">USSM ED (Co-Chair)</td><td width="150px">Beth Angerman</td></tr>
-<tr><td width="150px">Category Management</td><td width="150px">John Bashista</td></tr>
-<tr><td width="150px">CFO Council</td><td width="150px">Stacy Marcott</td></tr>
-<tr><td width="150px">CFO Council</td><td width="150px">Sheila Conley</td></tr>
-<tr><td width="150px">CIO Council</td><td width="150px">Joe Klimavicz</td></tr>
-<tr><td width="150px">CIO Council</td><td width="150px">Jason Gray</td></tr>
-<tr><td width="150px">CAO Council</td><td width="150px">Soraya Correa</td></tr>
-<tr><td width="150px">CAO Council</td><td width="150px">Iris Cooper</td></tr>
-<tr><td width="150px">CHCO Council</td><td width="150px">Bob Gibbs</td></tr>
-<tr><td width="150px">CHCO Council</td><td width="150px">In Progress</td></tr>
-<tr><td width="150px">PIC Council</td><td width="150px">Dat Tran</td></tr>
-<tr><td width="150px">PIC Council</td><td width="150px">Henry Hensley</td></tr>
-<tr><td width="150px">Central Policy Agency FM</td><td width="150px">Dave Lebryk</td></tr>
+<tr><td width="300px"><strong><center>Role/Perspective</center></Strong></td><td width="300px"><Strong><center>Name</center></Strong></td></tr>
+<tr><td width="300px">SSPO (Co-Chair)</td><td width="300px">Lesley Field</td></tr>
+<tr><td width="300px">USSM ED (Co-Chair)</td><td width="300px">Beth Angerman</td></tr>
+<tr><td width="300px">Category Management</td><td width="300px">John Bashista</td></tr>
+<tr><td width="300px">CFO Council</td><td width="300px">Stacy Marcott</td></tr>
+<tr><td width="300px">CFO Council</td><td width="300px">Sheila Conley</td></tr>
+<tr><td width="300px">CIO Council</td><td width="300px">Joe Klimavicz</td></tr>
+<tr><td width="300px">CIO Council</td><td width="300px">Jason Gray</td></tr>
+<tr><td width="300px">CAO Council</td><td width="300px">Soraya Correa</td></tr>
+<tr><td width="300px">CAO Council</td><td width="300px">Iris Cooper</td></tr>
+<tr><td width="300px">CHCO Council</td><td width="300px">Bob Gibbs</td></tr>
+<tr><td width="300px">CHCO Council</td><td width="300px">In Progress</td></tr>
+<tr><td width="300px">PIC Council</td><td width="300px">Dat Tran</td></tr>
+<tr><td width="300px">PIC Council</td><td width="300px">Henry Hensley</td></tr>
+<tr><td width="300px">Central Policy Agency FM</td><td width="300px">Dave Lebryk</td></tr>
 </table>
 
 <!--| Representation     | Name           | 
