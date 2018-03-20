@@ -20,10 +20,3 @@ Visit our website frequently to stay current on new initiatives and tools design
 
 
 
-
-
-
-NEWLY RELEASED: Federal Integrated Business Framework (FIBF) Getting government to standards
-
-
-
