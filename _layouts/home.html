@@ -12,16 +12,19 @@ layout: base
   </div>
 </section>
 
+{% if page.banner-heading %}
 
 <!--
   <DIV style="width: 1040px; margin: 200 auto;" style="border: 1px solid #FF0000;">{{ content }}</DIV>
 -->
 
-<section class="usa-grid usa-section" style="background-color: #FFFFFF;">
+<section class="usa-grid usa-section" style="background-color: #008800;">
   <div class="usa-width-one-whole usa-end-row" style="background-color: #FFFFFF;">
-  
-    {% include home.ussm.html %}
-  
+     {{ page.banner-heading }}
+    {{ content }}
+    {% if page.content-button-link %}
+      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
+    {% endif %}
   </div>
 </section>
 
@@ -29,20 +32,24 @@ layout: base
 
 <section class="usa-section banner tagline"  >
   <div class="usa-grid" >
-    <div class="usa-width-one-whole usa-end-row">
-
-  &nbsp;    
-      
+    <div class="usa-width-one-whole usa-end-row"  style="background-color:#FF0000;">
+      <h2>{{ page.banner-heading }}</h2>
+      {% if page.banner-text %}
+        <p>{{ page.banner-text }}</p>
+      {% endif %}
+      {% if page.banner-button-text %}
+      <div class="center-content" style="background-color:#00FF00;">
+        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
+      </div>
+      {% endif %}
     </div>
   </div>
 </section>
+{% endif %}
 
-
-<section class="usa-grid usa-section" style="background-color:#FFFFFF;">
+<section class="usa-grid usa-section"   style="background-color:#FF0000;">
     <h2>News and Updates</h2>
- 
-  {% include home.news.updates.html %}
-  
+    {% include projects.html %}
 </section>
 
 {% include contact.html %}
